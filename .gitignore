@@ -161,3 +161,5 @@ cython_debug/
 
 # Mac
 .DS_Store
+
+Activity_2/activity_2c/Activity_2/cifar-10/cifar-10-batches-py
