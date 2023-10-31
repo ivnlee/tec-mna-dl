@@ -164,3 +164,6 @@ cython_debug/
 
 Activity_2/activity_2c/Activity_2/cifar-10/cifar-10-batches-py
 Activity_2/activity_2b/Activity_2/cifar-10/cifar-10-batches-py
+
+Activity_3/activity_3a/glove.6B.50d.txt 
+Activity_3/activity_3a/embeddings_dict_50D.pkl
